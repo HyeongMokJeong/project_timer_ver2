@@ -1,6 +1,6 @@
 # project_timer_ver2
 
-This is a program called "LoLKor" that helps to create "Anime timer" in Naver Cafe.
+This is a program that helps to create "timer" in Naver Cafe.
 background web scraping, pyautogui-based.
 Conditions are required for smooth use.
 
