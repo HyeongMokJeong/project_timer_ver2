@@ -1,14 +1,10 @@
-from re import search
 from tkinter import *
-from PIL.ImageOps import grayscale
 from namu import *
 from cafe import *
-from requests.api import options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from urllib3.filepost import choose_boundary
 
 
 root = Tk()
