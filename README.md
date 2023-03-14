@@ -1,9 +1,8 @@
 # project_timer_ver2
 
-This is a program that helps to create "timer" in Naver Cafe.
-background web scraping, pyautogui-based.
-Conditions are required for smooth use.
+특정한 루틴에 따라 네이버 카페에 업로드할 게시글 양식을 작성해주는 프로그램입니다.
+tkinter 및 pyautogui 라이브러리를 사용했습니다.
 
-0. The monitor size of the running device should be *.
-1. Naver login information should be stored in Chrome cache.
-2. All image files must be in the same directory as the execution module.
+
+## 언어
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
